@@ -1,7 +1,8 @@
 # LLM Data Visualizer
 
 ##  About
-LLM Data Visualizer is a **Streamlit-based dashboard** that lets users upload CSV files and generate custom data visualizations using **natural language prompts**. It uses a **local LLaMA GGUF model** to understand requests and generate Python plotting code, making it possible to create charts without manual coding.
+It is an intelligent data visualization tool that allows users to generate insightful plots using natural language commands. Built with Streamlit, it uses a locally hosted LLaMA GGUF model (via llama-cpp) to understand user queries and convert them into Python code using Matplotlib, Seaborn, or Plotly for interactive plots. This tool bridges the gap between non-technical users and complex data visualizations without writing code.
+
 
 ##  Features
 -  **CSV Upload** – Import your dataset directly.
