@@ -1,4 +1,4 @@
-# LLM Data Visualizer
+# Data Visualization Assistant
 
 ##  About
 It is an intelligent data visualization tool that allows users to generate insightful plots using natural language commands. Built with Streamlit, it uses a locally hosted LLaMA GGUF model (via llama-cpp) to understand user queries and convert them into Python code using Matplotlib, Seaborn, or Plotly for interactive plots. This tool bridges the gap between non-technical users and complex data visualizations without writing code.
